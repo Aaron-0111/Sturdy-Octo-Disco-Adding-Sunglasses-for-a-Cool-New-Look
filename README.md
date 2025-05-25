@@ -1,5 +1,5 @@
-# NAME: L yagnesh kumar reddy
-# REG.NO: 212223100024
+# NAME: AARON RAJESH R
+# REG.NO: 212223100001
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
